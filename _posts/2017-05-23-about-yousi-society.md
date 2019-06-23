@@ -4,7 +4,7 @@ title: "关于「游思学社」"
 subtitle:
 date: 2017-05-08
 author: "yousi"
-header-img: "img/freedom-1.jpg"
+header-img: "img/page-bg-4.jpg"
 tags:
     - 游思学社
 ---

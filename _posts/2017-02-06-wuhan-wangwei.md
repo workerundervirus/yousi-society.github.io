@@ -5,7 +5,7 @@ subtitle: "武汉游学"
 author: "王伟"
 description:
 date: 2017-02-06
-header-img: "img/freedom-2.jpg"
+header-img: "img/page-bg-2.jpg"
 tag:
     - 2017武汉游学
 ---
