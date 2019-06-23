@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords"  content="游思学社,游学,民间教育,博客">
+    <link rel="shortcut icon" href="/img/logo.png">
+
+    <title>关于「游思学社」 - 游思学社</title>
+
+    <link rel="canonical" href="http://localhost:4000/2017/05/08/about-yousi-society/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/hux-blog.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <link rel="stylesheet" href="/css/backtop.css">
+
+    <link rel="stylesheet" href="/css/share.min.css">
+
+    <script src="/js/social-share.min.js" ></script>
+
+    <!-- Custom Fonts -->
+    <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Hux change font-awesome CDN to qiniu -->
+    <!-- <link href="http://cdn.staticfile.org/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+
+    <!-- Hux Delete, sad but pending in China
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/
+    css'>
+    -->
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ga & ba script hoook -->
+</head>
+
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+
+  <a id="back2Top" title="Back to top" href="#">&#10148;</a>
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">游思学社</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/about/">About</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/archives/">Archives</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/tags/">Tags</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/feed.xml">RSS</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+<script>
+    // Drop Bootstarp low-performance Navbar
+    // Use customize navbar with high-quality material design animation
+    // in high-perf jank-free CSS3 implementation
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    var __HuxNav__ = {
+        close: function(){
+            $navbar.className = " ";
+            // wait until animation end.
+            setTimeout(function(){
+                // prevent frequently toggle
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        },
+        open: function(){
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+
+    // Bind Event
+    $toggle.addEventListener('click', function(e){
+        if ($navbar.className.indexOf('in') > 0) {
+            __HuxNav__.close()
+        }else{
+            __HuxNav__.open()
+        }
+    })
+
+    /**
+     * Since Fastclick is used to delegate 'touchstart' globally
+     * to hack 300ms delay in iOS by performing a fake 'click',
+     * Using 'e.stopPropagation' to stop 'touchstart' event from
+     * $toggle/$collapse will break global delegation.
+     *
+     * Instead, we use a 'e.target' filter to prevent handler
+     * added to document close HuxNav.
+     *
+     * Also, we use 'click' instead of 'touchstart' as compromise
+     */
+    document.addEventListener('click', function(e){
+        if(e.target == $toggle) return;
+        if(e.target.className == 'icon-bar') return;
+        __HuxNav__.close();
+    })
+</script>
+
+
+    <!-- Image to hack wechat -->
+<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
+<!-- <img src="/img/freedom-1.jpg" width="0" height="0"> -->
+
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header{
+        position: relative;
+        background-image: url('/img/freedom-1.jpg')
+    }
+
+    
+</style>
+<header class="intro-header" >
+    <div class="header-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/#游思学社" title="游思学社">游思学社</a>
+                        
+                    </div>
+                    <h1>关于「游思学社」</h1>
+                    
+                    
+                    <h2 class="subheading"></h2>
+                    
+                    <span class="meta">Posted by yousi on May 8, 2017</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+				<h2 id="机构简介">机构简介</h2>
+
+<p>游思学社是一个NGO群体，团队成员皆为在读大学生，分散于全国几个城市。我们发起这个学社，并没有什么野心和奢望。我们只是觉得现在校园的生活太枯燥，太沉闷，想要冲破这一点浑浊的空气，以期打破教育上之老套。对于久居的城市和单调的校园生活感到不满足，想出去看看，想去探索另一种教育模式与自我成长道路。也想把更多的知识，多元化的声音，更加真实的世界带给那些封闭的校园。</p>
+
+<h2 id="机构定位">机构定位</h2>
+
+<p>游思学社的一些活动主要定位大学生群体，主要方向是做颇有成效的短期游学教育产品。在这个固化的社会，在缺乏活力的校园，我们试图用民间教育公益行动服务和自己背景相似的大学生，减少他们的迷茫、焦虑与不安，去引导学生发现真实的自我，探索自我教育与友朋教育的方式，培养具有独立精神和行动能力的青年公民，去推动社会的创变。</p>
+
+<h2 id="关注领域">关注领域</h2>
+
+<p>青年成长与民间教育。民间教育，即借助民间土壤，依托民间支持力量，探索自我教育与友朋教育的方式，希望以民间教育公益行动影响其他人。通过游学，集合一批学问家、思考者、创造者和行动者，建立师生之间、学生之间的连接，不受制于统一的教育体制，为当下青年自我成长以及真诚向学提供一个平台。青年成长是指希望通过类似的活动，推动当下青年成长，也包括游学后对学员的无偿帮助与支持。发现对方的能力与资源，去设计和发挥他们的能力，对方有成熟的想法后给予支持孵化成型。</p>
+
+<h2 id="机构产品">机构产品</h2>
+
+<p>主要以公益游学活动、游学纪念文集为主</p>
+
+<h2 id="以往游学活动">以往游学活动</h2>
+
+<p>2016年寒假广深游学</p>
+
+<p>2016年暑假京津游学</p>
+
+<p>2016年暑假广佛游学</p>
+
+<p>2017年寒假沪杭游学</p>
+
+<p>2017年寒假武汉游学</p>
+
+<p>2017年寒假深圳游学</p>
+
+<p>2017年寒假西安游学</p>
+
+<h2 id="什么是游学">什么是游学</h2>
+
+<p>游历+学习。一群自愿聚集起来的探寻者，尝试以友爱共同体的形式自主教育、相互学习，类似于一个“流动的书院”；课程、活动形式多样，场地不固定；在城市游走、寻访“有意思的人”与“有趣的空间、机构”，同时集中开设部分以“培养整全的人”为目标的通识教育课程。</p>
+
+<h2 id="为什么要发起游学">为什么要发起游学</h2>
+
+<p>1、不少在校大学生特别是低年级学生处于一个真空期与迷茫状态，“空心病”开始漫延。我们希望游学能够提供一个让他们与同辈、长辈、社会建立连接的契机，为他们的未来提供更多的参照系。</p>
+
+<p>2、大学教育体制在变革。一大批有才华的人很难进入高校任教，一方面是教育的畸形伪善，另一方面是学校在裁员。同时，在这些学校当中思维敏感、社会责任感强烈的青年学生，很难找到志同道合者一起做事，交流学术思考以及为公共利益服务。</p>
+
+<p>3、中国自古以来有私人讲学和书院制度的传统。民间的开放“大学”、公益游学模式自几年前开始，逐渐被社会大众接受，也尤其被学校里部分青年学生喜爱，他们渴望通过类似的方式去改变自身，打开自己的视野。</p>
+
+<p>4、我们本身具有强烈的社会责任感和学术爱好，对民间教育公益行动十分认同，希望通过行动来推动青年成长。出于对社会现实的把握以及对当前大学传统教育的认知，认为在体制外亦或民间去努力是有效且能做事的。</p>
+
+<h2 id="往期游学嘉宾">往期游学嘉宾</h2>
+
+<p>刘道玉、傅国涌、王晓渔、鄢烈山、商传、余世存、艾晓明、赵国君、王俊秀、徐庆全、胡发云、江柏安、梁卫星、彭晓辉、王小妮、周如南、赵思乐、汤敏、黄雪涛、陈维伟、谌洪果、江雪、谭敏涛、范忠信、章雪富、丁立、翟明磊、张黎、曾亦、柯小刚、蔡文菁、赵川、刘泓、夏正林、陈定方、刘根勤、黄雪涛、刘琼雄、陈侗、梗叔、陈嘉俊、邓良、祥子、余以为、马永红、董钧、挂心妈妈、张小郁、赵军、刘新霞、黄微、王晓华、梁敏、陈纯、韩茵妍、蒋良才、肖畅、杨帆、丁鹏、大雄、陈晶晶、许多、汪伟楠、李晓义、吴克峰、鲍震培、黄轶群、姚远、示之、罗瑞雪、杨新新、薛诗颖、黄叶韵子……</p>
+
+<h2 id="往期参访机构">往期参访机构</h2>
+
+<p>腾讯总部、喜马拉雅FM总部、恩派公益组织发展中心、古村之友、衡平机构、维德法律服务中心、山泉剧社、北京打工文化艺术博物馆、奇点公益、天津绿领、逵园艺术馆、706青年空间、807创新空间、807新秀创新实验室、知无知文化空间、谷河南岸青年空间、叁楼青年空间、1+社区、拜客广州、新媒体女性、北辰学院、leanInXian、西安进步青年中心、佛山学思口述史研习所……</p>
+
+
+        <hr style="border-top:1px solid #28323C;"/>
+        <p>评论请前往 <a href="http://2049bbs.xyz/">2049BBS</a></p>
+        <div class="social-share" data-disabled="linkedin,diandian,tencent"></div>
+
+                <hr style="visibility: hidden;">
+
+                <ul class="pager">
+                    
+                    
+                </ul>
+
+    <!-- Side Catalog Container -->
+        
+        </div>
+
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Featured Tags -->
+                
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+        				
+                            
+        				
+        			</div>
+                </section>
+                
+
+                <!-- Friends Blog -->
+                
+            </div>
+
+    </div>
+</article>
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+
+                    <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+                    
+                    
+
+
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/yousiren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+                <p class="copyright text-muted">
+                    Copyright &copy; 游思学社 2019 | Theme by <a href="http://huangxuan.me">Hux</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/hux-blog.min.js "></script>
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+<script>
+$(window).scroll(function() {
+  var height = $(window).scrollTop();
+  if (height > 100) {
+      $('#back2Top').fadeIn();
+  } else {
+      $('#back2Top').fadeOut();
+  }
+});
+$(document).ready(function() {
+  $("#back2Top").click(function(event) {
+      event.preventDefault();
+      $("html, body").animate({ scrollTop: 0 }, "slow");
+      return false;
+  });
+
+});
+</script>
+<!--
+     Because of the native support for backtick-style fenced code blocks
+     right within the Markdown is landed in Github Pages,
+     From V1.6, There is no need for Highlight.js,
+     so Huxblog drops it officially.
+
+     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+     - https://help.github.com/articles/creating-and-highlighting-code-blocks/
+     - https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers
+-->
+<!--
+    <script>
+        async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function(){
+            hljs.initHighlightingOnLoad();
+        })
+    </script>
+    <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+-->
+
+
+<!-- jquery.tagcloud.js -->
+<script>
+    // only load tagcloud.js in tag.html
+    if($('#tag_cloud').length !== 0){
+        async('/js/jquery.tagcloud.js',function(){
+            $.fn.tagcloud.defaults = {
+                //size: {start: 1, end: 1, unit: 'em'},
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+<!--fastClick.js -->
+<script>
+    async('/js/fastclick.min.js', function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+<!-- Google Analytics -->
+
+
+
+<!-- Baidu Tongji -->
+
+
+
+
+<!-- Side Catalog -->
+
+
+<!-- pangu auto space -->
+    <script src="/js/pangu.min.js "></script>
+    <script> pangu.spacingPage(); </script>
+
+
+</body>
+
+</html>
