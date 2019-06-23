@@ -5,7 +5,7 @@ header-img: img/home-bg.JPG
 email: dgjj1991@gmail.com
 description: ""
 keyword: "游思学社,游学,民间教育,博客"
-url: "https://yousiren.github.io"              # your host, for absolute URL
+url: "https://yousi-society.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 future: true
