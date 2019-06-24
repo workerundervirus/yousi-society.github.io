@@ -6,11 +6,11 @@ author: "王伟"
 description:
 date: 2017-02-06
 header-img: "img/page-bg-2.jpg"
-tag:
+tags:
     - 2017武汉游学
 ---
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817657.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817657.jpeg](https://i.loli.net/2019/06/24/5d105761ef44587205.jpeg)
 
 来自南开大学16级旅游管理专业的“长城岛主”  
 
@@ -24,27 +24,27 @@ tag:
 
 **江城武汉**
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817658.png)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817658.png](https://i.loli.net/2019/06/24/5d1057b69446111657.png)
 
 先说第一部分，武汉这座城。
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817659.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817659.jpeg](https://i.loli.net/2019/06/24/5d1057b6a003832229.jpeg)
 
 武汉位于江汉平原，亚热带季风气候。作为一座被长江横跨的城市，武汉和水颇有渊源，因而当地植被也很繁茂，更会时常看到一些北方从未见过的植株。来到武汉的第一感觉就是——爽！刚刚从妖风肆虐的天津逃离后，无风微冷的武汉给人带来了无限的遐想。抵达武汉时已然入夜，抬头看看，天朗气清，几点疏星。不由得感叹没有雾霾的日子是多么难得。
 
 武汉城市公共交通系统非常四通八达。
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817659-1.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817659-1.jpeg](https://i.loli.net/2019/06/24/5d1057b6b5ab773212.jpeg)
 
 地铁公交还加上航渡，基本上实现了无缝全覆盖。穿过大街小巷，看着人来人往，心中也颇为感慨——初识武汉，觉得这是个颇为“矛盾”的城市。这里说的“矛盾”，是一种很对立的感觉。一个东湖的两畔，画风截然不同。一侧极具现代化大都市气息，高楼耸立，鳞次栉比，霓虹灯妆点起四通八达的柏油路；另一侧却颇为破落久远，感觉回到上世纪九十年代的小胡同，贴着大字号的条幅，吊着暗黄色灯泡的小桌，有一种随时要准备黑社会搏斗的电影气氛。再看看建筑，既有高级现代的电梯大楼，又有集聚在一起的“握手楼”、烂尾楼，还有颇具西方洋气的哥特式、仿古罗马式欧式建筑，更有威严庄重，用琉璃瓦层叠起来的中式建筑……这样丰富多彩的武汉，倒也是我始料未及的。
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817660.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817660.jpeg](https://i.loli.net/2019/06/24/5d105807cf32647773.jpeg)
 
-![王伟：武汉游学体与思](http://yousi.ren/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817661.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817661.jpeg](https://i.loli.net/2019/06/24/5d105807e86e577697.jpeg)
 
 再说，就是武汉的著名学府：武汉大学了。武汉大学不愧为知名高校，进入武大就能被其浓郁的高校气场所感染。武大校园号称中国很美的校园（管你是不是最美）也名不虚传——环绕东湖水，坐拥珞珈山，一砖一瓦、一草一木，皆引人入胜、醉人心脾。“樱花大道”、“凌波门”、“情人坡”、“六一亭”……光听名字就不由得为之吸引，这个我开实在比不了。毕竟人家是“国立武汉大学”，而我开是“私立南开学校”，资金上就差了不只一丁半点。这里借用武大正门口《珞珈赋》来展示，此文据说是武大某中文系毕业生的作品，武大之美大可从中窥得一二：
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817662.jpeg)  
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817662.jpeg](https://i.loli.net/2019/06/24/5d105807db79393621.jpeg)
 
 讲真是被其震住了。但愿我开能有才子也挥毫一篇《南开赋》、《南开吟》或者《南开记》，各位客官不妨试试看。
 
@@ -66,9 +66,9 @@ tag:
 
 值得庆幸的是，我遇到了一群志气相投的小伙伴。他们能接纳我的孤独，接纳我的古怪，接纳我诸多毛病的同时还不忘鼓励我一句：“那你很棒棒哦！”青旅烛光相依相诉，人文行走相伴相随，长江滩上群魔乱舞，电影院里温馨短聚……每一次与你们的接触都让人感动。虽说因为自己经常莫名其妙消失，有时又会莫名其妙伤心悲苦，但你们一直真心待我，在半夜还没有回去时候不是责怪我的不告而别，而是担忧我的路上安全。你们话题探讨时候的投入，深夜谈话交流的热忱，都不时地打动我。你们谈及自己的过去，现在和未来，那种从容让我艳羡，那种坦然让我感慨。  
 
-![王伟：武汉游学体与思](/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817663.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817663.jpeg](https://i.loli.net/2019/06/24/5d105807ba77090225.jpeg)
 
-![王伟：武汉游学体与思](http://yousi.ren/wp-content/uploads/2017/02/beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817664.jpeg)
+![beepress-beepress-weixin-zhihu-jianshu-plugin-2-4-2-287-1531817664.jpeg](https://i.loli.net/2019/06/24/5d105807f14bf39695.jpeg)
 
 每一个人，都是传奇。
 
