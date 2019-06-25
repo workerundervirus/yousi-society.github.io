@@ -3,7 +3,7 @@ layout: post
 title: 重庆游学
 author: 游思学社
 date: 2018-09-18
-head-img: "img/page-bg-2.jpg"
+header-img: "img/page-bg-5.jpg"
 tags:
     - 重庆游学
 ---
