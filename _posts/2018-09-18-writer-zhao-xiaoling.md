@@ -3,7 +3,7 @@ layout: post
 title: 赵晓铃：青春不堪回首月明中
 author: 赵晓铃
 date: 2018-09-18 08:55
-head-img: "img/page-bg-3.jpg"
+header-img: "img/page-bg-3.jpg"
 tags:
     - 人物
 ---
