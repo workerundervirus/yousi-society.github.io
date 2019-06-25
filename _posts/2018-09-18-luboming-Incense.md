@@ -3,7 +3,7 @@ layout: post
 title: 陆柏茗：中国传统香学
 author: 陆柏茗
 date: 2018-09-18
-head-img: "img/page-bg-2.jpg"
+header-img: "img/page-bg-2.jpg"
 tags:
     - 香学
 ---
